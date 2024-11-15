@@ -63,7 +63,7 @@ button:hover {
 	background-color: #ff0000d0;
 }
 .AC:hover {
-	border: none;
+	border: 1px solid white;
 	box-shadow: none;
 }
 
